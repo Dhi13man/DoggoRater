@@ -1,13 +1,14 @@
-# Doggo Rater:
+# Doggo Rater
 
 Get to look at and rate photos of random Dogs from all over the internet.
 
-## ABOUT:
+## ABOUT
 
 Flutter app that was created by [Dhiman Seal (@dhi13man)](http://www.github.com/dhi13man) and [@KillyTheCat)](http://www.github.com/killythecat), just as an excuse to learn the basics of Flutter, Requests and Futures.<br><br>
-Uses Dog API: https://dog.ceo/dog-api/
+[Uses Dog API](https://dog.ceo/dog-api/)
 
-### Screenshots:
+### Screenshots
+
 <table border=3>
 <tr>
 <th>
